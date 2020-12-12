@@ -1,0 +1,74 @@
+
+body {
+  background-color: black;
+  font: Optima;
+  color: darkgoldenrod;
+
+  
+}
+
+.question-containerA {
+  color: darkgoldenrod;
+  background: midnightblue;
+  margin: 5px;
+  padding: 20px;
+  font-size: 24px;
+  font-family: Optima;
+  color: darkgoldenrod;
+}
+
+.question-containerB {
+  color: midnightblue;
+  background: darkgoldenrod;
+  margin: 5px;
+  padding: 20px;
+  font-size: 24px;
+  font-family: Optima;
+  color: midnightblue;
+}
+
+.question-container2 {
+  color: linen;
+  background: darkcyan;
+  margin: 20px;
+  padding: 40px;
+  font-size: 20px;
+}
+
+span {
+	font-family: futura;
+}
+.name {
+	color: goldenrod;
+	font-size: 35px;
+}
+.name2{
+	color: tomato;
+	font-size: 35px;
+}
+.question{
+	font-family: baskerville;
+	font-size: 25px;
+	color: beige;
+}
+.answer{
+	font-family: baskerville; 
+	font-size: 25px;
+	color: beige;
+}
+
+.question2{
+	text-align: center;
+	font-family: futura;
+	font-size: 25px;
+	color: mediumaquamarine;
+  text-decoration: underline;
+}	
+.answer2{
+	text-align: center;
+	font-family: futura; 
+	font-size: 25px;
+	color: royalblue;
+  text-decoration: underline;
+
+}
